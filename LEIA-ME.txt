@@ -1,0 +1,71 @@
+BOTWVR - ZELDA: BREATH OF THE WILD EM REALIDADE VIRTUAL
+=======================================================
+
+Zelda: Breath of the Wild (Wii U) no Cemu 2.6 com óculos de VR: primeira pessoa com as suas mãos, armas na mão,
+gestos, roleta 3D de armas e menu todo em português.
+
+  - Roleta 3D de armas: segure o grip num ombro e aparece uma roleta na sua frente com as armas, arcos, flechas ou
+    escudos da mochila, com os ícones do próprio jogo. Leve a mão até uma arma (mostra o nome e a durabilidade) e
+    solte o grip para trocar na hora. No meio da roleta, "mão vazia" guarda a arma. Para cancelar, solte o grip com
+    a mão longe da roleta. Enquanto ela está aberta o jogo fica em câmera lenta.
+      Ombro direito: armas (flechas, se o arco estiver na mão).
+      Ombro esquerdo: arcos (escudos, se a arma estiver na mão).
+  - Roleta com grip + gatilho (opcional, no menu do mod): com o grip apertado, aperte o gatilho da mesma mão e a
+    roleta abre em volta da mão.
+  - Menu do mod todo em português.
+  - Sem névoa e sem as partículas que ficam flutuando no ar e passando na tela durante o voo.
+  - Cavalo e moto viram para onde você olha.
+  - Câmera lenta ao puxar o arco em cima do cavalo (clique rápido no analógico esquerdo montado liga e desliga).
+  - Giro em passos (30°/45°) sem piscar a tela.
+  - Tudo num arquivo só: o BotwVR.exe instala e liga sozinho tudo o que o mod precisa no Cemu.
+
+
+O QUE VOCÊ PRECISA
+------------------
+  - O seu próprio Zelda: Breath of the Wild de Wii U, com a atualização v208 (por exemplo um arquivo .wua tirado do
+    seu console). O jogo NÃO vem aqui.
+  - PC com Windows e uma placa de vídeo boa (o jogo desenha tudo duas vezes, uma para cada olho).
+  - Óculos de VR com OpenXR: Virtual Desktop, SteamVR ou Quest Link.
+
+
+INSTALAÇÃO MAIS FÁCIL: APP MCASSADOR VR
+---------------------------------------
+  No app MCassador VR, clique em Instalar no Zelda e escolha a pasta. Ele baixa o Cemu com o mod e os graphic packs
+  da comunidade. Depois é só clicar em Jogar.
+
+
+INSTALAÇÃO PELO ZIP COMPLETO (com o Cemu)
+-----------------------------------------
+  1. Extraia a pasta Cemu_2.6 para onde quiser (por exemplo C:\Jogos\Cemu_2.6).
+     Ela é "portátil": configurações, saves e packs do Cemu ficam dentro da pasta portable.
+  2. Abra o BotwVR.exe. Na primeira vez ele abre o Cemu sem o VR: na tela de boas-vindas, adicione a pasta onde está
+     o seu jogo e deixe baixar os graphic packs da comunidade.
+  3. Feche o Cemu. Pronto, agora é só seguir em "PARA JOGAR".
+
+
+INSTALAÇÃO SÓ DO MOD (já tenho o Cemu 2.6 com o Zelda funcionando)
+------------------------------------------------------------------
+  1. Copie o BotwVR.exe para a pasta do seu Cemu, do lado do Cemu.exe.
+  2. Pronto, agora é só seguir em "PARA JOGAR".
+
+
+PARA JOGAR
+----------
+  1. Ligue os óculos e abra o Virtual Desktop (ou o SteamVR / Quest Link).
+  2. Abra o BotwVR.exe (sempre ele, não o Cemu.exe direto). Ele abre o Cemu com o VR ligado.
+  3. Dê dois cliques no Zelda na lista de jogos com os óculos na cabeça.
+
+  Toda vez que abre, o BotwVR.exe instala o pack do VR e os packs Sem nevoa (VR) e Sem particulas (VR), liga no Cemu
+  o VR, o FPS++ e o Graphics, e deixa o Cemu em Vulkan. Na primeira vez liga também o Sem nevoa e o Sem particulas.
+  Se depois você desligar algum deles no Cemu, ele respeita a sua escolha.
+
+
+PROBLEMAS
+---------
+  - "Falta baixar os graphic packs da comunidade": no Cemu, vá em Opções > Graphic packs e clique em baixar os
+    graphic packs da comunidade; depois feche o Cemu e abra o BotwVR.exe de novo.
+  - Se o óculos não estiver ligado, o BotwVR.exe abre o Cemu normal, sem VR.
+
+
+Licenças na pasta "licencas" (o Cemu é MPL-2.0; o código dele fica em https://github.com/cemu-project/Cemu).
+Página do mod e versões novas: https://github.com/MCassador/BotwVR
