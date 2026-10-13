@@ -16,6 +16,18 @@ com as suas mãos, armas na mão, gestos, roleta 3D de armas e menu todo em port
 - **Cavalo e moto viram para onde você olha.**
 - **Câmera lenta ao puxar o arco em cima do cavalo**, com botão para ligar e desligar jogando.
 - **Giro em passos (30°/45°) sem piscar a tela.**
+- **HUD no pulso, como um relógio** — olhe o punho: o mapa flutua entre a luva e o punho e a hora, o clima, a
+  temperatura e os corações ficam "tatuados" no antebraço.
+- **Roleta de runas no Y**, **surf no escudo** (agache com o escudo baixo), **luneta com as mãos** (binóculo em 3D),
+  **arremessar a arma e objetos** pelo movimento.
+- **Combate por gesto** — golpes de lado, de cima e de baixo com efeitos diferentes, combos com golpe final, desvio pelo
+  corpo (golpe relâmpago), golpe de escudo, ataque saltando, agachar de verdade.
+- **Arco com a mão reta** segurando a corda.
+- **Imagem e desempenho** (menu do mod > Sistema) — renderização foveada (bordas mais leves = mais FPS), nitidez RCAS /
+  Depth Aware no estilo do OptiScaler, brilho/contraste/saturação, anisotropia e LOD das texturas, previsão da cabeça e
+  um painel de diagnóstico com gráficos de FPS.
+- **Configuração recomendada na primeira vez** — o Cemu fica com gráfico 1.25x, sombras, FPS++ e Enhancements, e o mod
+  com os ajustes já afinados. Nenhum cheat é ligado.
 - **Tudo num arquivo só** — o `BotwVR.exe` instala e liga sozinho tudo o que precisa no Cemu.
 
 ## O que você precisa
